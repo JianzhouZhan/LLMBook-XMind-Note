@@ -7,7 +7,8 @@
 &ensp;&ensp;&ensp;&ensp;该书笔记引用内容的版权归原作者所有。此外，该笔记内容仅用于学习分享，禁止作为商业用途，若涉及侵权行为，请联系删除，十分感谢。<br>
 
 《大语言模型》综述书籍链接: https://github.com/LLMBook-zh/LLMBook-zh.github.io <br> <br>
-![](https://github.com/JianzhouZhan/LLMBook-XMind-Note/blob/main/LLMBookCover.png)
+
+![image](https://github.com/JianzhouZhan/LLMBook-XMind-Note/blob/main/LLMBookCover.png)
 
 ## 全书章节组织：
 ### 一、背景与基础知识
@@ -37,4 +38,4 @@
 ## 更多
 笔者公众号"州懂学习笔记"会有更多关于大模型&推荐系统的分享, 欢迎关注
 
-![](https://github.com/JianzhouZhan/LLMBook-XMind-Note/blob/main/WeChatOfficialAccount.png)
+![image](https://github.com/JianzhouZhan/LLMBook-XMind-Note/blob/main/WeChatOfficialAccount.png)
